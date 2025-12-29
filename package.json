@@ -1,5 +1,5 @@
 {
-  "name": "nicemail",
+  "name": "nice.mail",
   "version": "1.0.0",
   "private": false,
   "main": "dist/index.js",
@@ -15,8 +15,12 @@
     "temporary",
     "mail",
     "email",
-    "fast",
-    "secmail"
+    "secmail",
+    "pentesting",
+    "pentest",
+    "hack",
+    "cybersecurity",
+    "infosecurity"
   ],
   "homepage": "https://github.com/thatcelt/NiceMail#readme",
   "bugs": {
