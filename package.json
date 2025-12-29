@@ -30,7 +30,7 @@
   "author": "celt_is_god",
   "type": "commonjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tsc && cd dist/ && node index.js"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
