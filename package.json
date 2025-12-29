@@ -1,0 +1,39 @@
+{
+  "name": "nicemail",
+  "version": "1.0.0",
+  "private": false,
+  "main": "dist/index.js",
+  "files": [
+    "README.MD",
+    "dist"
+  ],
+  "description": "API Wrapper on TypeScript for temporary mail service - NiceMail",
+  "keywords": [
+    "nicemail",
+    "temp-mail",
+    "tempmail",
+    "temporary",
+    "mail",
+    "email",
+    "fast",
+    "secmail"
+  ],
+  "homepage": "https://github.com/thatcelt/NiceMail#readme",
+  "bugs": {
+    "url": "https://github.com/thatcelt/NiceMail/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatcelt/NiceMail.git"
+  },
+  "license": "MIT",
+  "author": "celt_is_god",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {}
+}
