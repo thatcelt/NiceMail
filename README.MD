@@ -10,7 +10,7 @@ npm i nice.mail
 ### Examples
 
 ```typescript
-import { NiceMail } from 'nice.mail';
+import { NiceMail } from 'nicemail-ts';
 
 (async () => {
   const nicemail = new NiceMail();
