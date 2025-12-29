@@ -3,7 +3,7 @@ Simple API Wrapper of Nicemail.cc for pentesting, accounts making and testing. D
 
 ### Installation
 ```bash
-npm i nice.mail
+npm i nicemail-ts
 ```
 
 
